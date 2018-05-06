@@ -4,7 +4,7 @@
 
 [![npm status](http://img.shields.io/npm/v/section-remark.svg?style=flat-square)](https://www.npmjs.org/package/section-remark)
 [![node](https://img.shields.io/node/v/section-remark.svg?style=flat-square)](https://www.npmjs.org/package/section-remark)
-[![Build Status](https://secure.travis-ci.org/vweevers/section-remark.svg?style=flat-square)](http://travis-ci.org/vweevers/section-remark)
+[![Build Status](https://img.shields.io/travis/vweevers/section-remark.svg?style=flat-square)](http://travis-ci.org/vweevers/section-remark)
 [![Dependency status](https://img.shields.io/david/vweevers/section-remark.svg?style=flat-square)](https://david-dm.org/vweevers/section-remark)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com)
 
