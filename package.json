@@ -1,6 +1,6 @@
 {
   "name": "section-remark",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Specialized Remark that only transforms (or adds) one Markdown section",
   "license": "MIT",
   "author": "Vincent Weevers",
