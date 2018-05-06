@@ -1,0 +1,38 @@
+{
+  "name": "section-remark",
+  "version": "0.0.0",
+  "description": "Specialized Remark that only transforms (or adds) one Markdown section",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "mdast-util-heading-range": "~2.1.0",
+    "remark": "~9.0.0",
+    "unified": "~6.2.0",
+    "unist-builder": "~1.0.2"
+  },
+  "devDependencies": {
+    "remark-contributors": "~3.1.0",
+    "standard": "~11.0.1",
+    "tape": "~4.9.0",
+    "unist-util-visit": "~1.3.1"
+  },
+  "repository": "vweevers/section-remark",
+  "bugs": "https://github.com/vweevers/section-remark/issues",
+  "homepage": "https://github.com/vweevers/section-remark",
+  "engines": {
+    "node": ">=6"
+  },
+  "keywords": [
+    "markdown",
+    "md",
+    "remark",
+    "section",
+    "unified"
+  ]
+}
